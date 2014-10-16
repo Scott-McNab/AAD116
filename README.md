@@ -4,7 +4,7 @@ AAD116
 Design Journal for Introduction to Communication Design
 
 Week1
-_____
+-----
 
 
 
