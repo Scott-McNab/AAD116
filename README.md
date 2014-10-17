@@ -49,12 +49,12 @@ Having a previous experience in writing code I had an understanding in how to ed
 
 This is what the page looked like before I started editing along with the code:
 
-![timpotter](../images/hw.jpeg)
-![code](../images/code.jpeg)
+![timpotter](/images/hw.jpeg)
+![code](/images/code.jpeg)
 
 After I finished editing the code my page looked a bit different:
 
-![mypage](..images/mypage.jpeg)
+![mypage](images/mypage.jpeg)
 
 ##Inspiration
 
@@ -62,18 +62,18 @@ After I finished editing the code my page looked a bit different:
 
 Firstly I looked at [Pete Stewart](http://www.petewake.com/) who's work I have admired for a few years now, Pete is a successful web designer and developer who has designed websites for the likes of O'Briens sandwichs, Xtreme Gene and has recently set up his own Flip Flop and t-shirt company called Thongs.
 
-![petewake](../images/pete.jpeg)
-![obriens](../images/obriens.jpeg)
-![thongs](../images/thongs.jpeg)
+![petewake](/images/pete.jpeg)
+![obriens](/images/obriens.jpeg)
+![thongs](/images/thongs.jpeg)
 
 
 ###Matt Dempsey
 
-![matt](../images/matt.jpeg)
+![matt](/images/matt.jpeg)
 
 ###Sarah Parmenter
 
-![sarah](../images/sarah.jpeg)
+![sarah](/images/sarah.jpeg)
 
 
 
