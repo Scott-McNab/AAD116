@@ -35,7 +35,7 @@ The wind won. White water boiled off the starboard bow. A scream from the lookou
 
 __The Author:__ Veteran Belgin dicer Robert Sténuit spent two days at 432 feet beneath the sea in a pioneering test he described in __“The Deepest Days”,__ National Geographic, April 1965. Here he tells the dramatic story of finding the Girona.
 
-![markdown](/images/markdown.jpeg)
+![markdown](/images/markdown.jpg)
 
 
 Week2
