@@ -41,6 +41,22 @@ __The Author:__ Veteran Belgin dicer Robert Sténuit spent two days at 432 feet 
 Week2
 -----
 
+##GitHub
+
+We started to take a look at [GitHub](http://www.github.com) which is essetnially a huge code sharing service, we were introduced to this by [Tim](https://github.com/timpotter) and he gave us a brief overview of how to use it. The first thing we needed to do was edit a personal page that Tim had already created for use and style it to our own desire and fill it with our own information.
+
+Having a previous experience in writing code I had an understanding in how to edit the page to my own liking and also how to link the icons to my own personal pages.
+
+This is what the page looked like before I started editing along with the code:
+
+![timpotter](../images/hw.jpeg)
+![code](../images/code.jpeg)
+
+After I finished editing the code my page looked a bit different:
+
+![mypage](..images/mypage.jpeg)
+
+
 
 
 Week3
