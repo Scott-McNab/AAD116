@@ -56,6 +56,24 @@ After I finished editing the code my page looked a bit different:
 
 ![mypage](..images/mypage.jpeg)
 
+##Inspiration
+
+###Pete Stewart
+
+Firstly I looked at [Pete Stewart](http://www.petewake.com/) who's work I have admired for a few years now, Pete is a successful web designer and developer who has designed websites for the likes of O'Briens sandwichs, Xtreme Gene and has recently set up his own Flip Flop and t-shirt company called Thongs.
+
+![petewake](../images/pete.jpeg)
+![obriens](../images/obriens.jpeg)
+![thongs](../images/thongs.jpeg)
+
+
+###Matt Dempsey
+
+![matt](../images/matt.jpeg)
+
+###Sarah Parmenter
+
+![sarah](../images/sarah.jpeg)
 
 
 
